@@ -1,6 +1,0 @@
-{
-  "/api/stocks/route": "app/api/stocks/route.js",
-  "/api/subscribe/route": "app/api/subscribe/route.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/page": "app/page.js"
-}
