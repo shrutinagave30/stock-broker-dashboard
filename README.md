@@ -67,9 +67,10 @@ Open http://localhost:3000 in your browser.
 The project is deployed using Vercel with continuous deployment enabled.
 Any push to the main branch automatically triggers a new production build.
 
-**Conclusion**
+### Conclusion
+
 This project demonstrates the practical application of modern frontend technologies to build a scalable, responsive, and production-ready dashboard. It reflects real-world development practices including component reusability, asynchronous updates, and cloud deployment.
 
-Author:
+### Author:
 Shruti Nagave
 Computer Science Engineering Student
