@@ -1,0 +1,26 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .background { fill: #10b981; }
+      .foreground { fill: white; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #059669; }
+      .foreground { fill: white; }
+    }
+  </style>
+  <rect class="background" width="180" height="180" rx="37" />
+  <g transform="translate(30, 40)">
+    <!-- Stock chart icon with upward trend -->
+    <path class="foreground" d="M10 80 L30 65 L50 70 L70 45 L90 50 L110 20" stroke-width="4" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Chart dots -->
+    <circle class="foreground" cx="10" cy="80" r="4"/>
+    <circle class="foreground" cx="30" cy="65" r="4"/>
+    <circle class="foreground" cx="50" cy="70" r="4"/>
+    <circle class="foreground" cx="70" cy="45" r="4"/>
+    <circle class="foreground" cx="90" cy="50" r="4"/>
+    <circle class="foreground" cx="110" cy="20" r="4"/>
+    <!-- Arrow up indicator -->
+    <path class="foreground" d="M110 20 L105 25 M110 20 L115 25" stroke-width="3" stroke="currentColor" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
